@@ -1,8 +1,8 @@
-# My daily DevOps Challenges
+# My daily Web development Challenges
 
-Welcome to my My daily DevOps Challenges!
+Welcome to my My daily Web development challenges!
 
-I'm committed one hour, every day, doing DevOps related work.
+I'm committed at least 20 minutes, every day, doing web development related work, rain, sun shine, snow, or whatever.
 
 ## My Rules
 
